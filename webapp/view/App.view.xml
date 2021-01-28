@@ -2,7 +2,9 @@
     xmlns="sap.m"
     xmlns:mvc="sap.ui.core.mvc">
   
+  
     <Text text="Hello World"/>
     <Text text="This is my first UI5 App!"/>
+
 
 </mvc:View>
